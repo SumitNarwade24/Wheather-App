@@ -4,18 +4,11 @@ A simple and responsive weather app built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Click here to view live](https://sumitnarwade24.github.io/Wheather-App/)
-
-> ⚠️ Replace this link with your actual GitHub Pages URL or Netlify/Render/Vercel deployment if different.
-
 ---
 
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/a4bf8bd0-e11b-4ccb-a7f5-77dbcb57a701)
-
 
 
 ---
